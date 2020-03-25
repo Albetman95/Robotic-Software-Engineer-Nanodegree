@@ -1,4 +1,4 @@
-# Welcome to Map my World :world:
+# Welcome to Map my World :earth_americas:
 
 The goal of this first project was to use SLAM and RTAB-Map on my simulated robot to create 2D and 3D maps of my enviroment
 

@@ -1,4 +1,4 @@
-# Welcome to Home Service Robot :Robot:
+# Welcome to Home Service Robot :robot:
 
 This is the final project from Udacity, where i created a c++ node that connect to turtlebot robot model and pick up and deliver virtual objects using Markers.
 

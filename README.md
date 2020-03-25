@@ -32,6 +32,8 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 #### P5 - **Home Service Robot** 
 - **Summary:** Programmed a home service robot that will autonomously map an enviroment and navigate to pickup and deliver objects!
 
+![Animated GIF-downsized_large (3)](https://user-images.githubusercontent.com/51816415/77531212-7bd01c80-6e8a-11ea-8b8d-527a36314874.gif)
+
 ## Follow me
 
 - You can also check my [LinkedIn profile](https://www.linkedin.com/in/marcos-albetman-414473170/)

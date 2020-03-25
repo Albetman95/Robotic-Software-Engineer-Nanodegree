@@ -9,8 +9,7 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 #### P1 - **Build My World** 
 - **Summary:** In this project, i designed a Gazebo world enviroment by including different models, this world will be used for the upcoming ones.
 -**Gazebo**
-
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:54.17%;position:relative;"><iframe width="360" height="195" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3tykkj"></iframe></div><p><a href="https://imgflip.com/gif/3tykkj">via Imgflip</a></p></div>
+<iframe src="https://giphy.com/embed/S52lrVqXYiXF9KGFZh" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/S52lrVqXYiXF9KGFZh">via GIPHY</a></p>
 
 #### P2 - **Go Chase It** 
 - **Summary:** In this project, i designed and built a mobile robot, and placed it inside of the previous world created, then i wrote a c++ node in ROS to chase white colored balls.

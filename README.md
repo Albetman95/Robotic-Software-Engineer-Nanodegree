@@ -17,7 +17,7 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 - **Summary:** In this project, i designed and built a mobile robot, and placed it inside of the previous world created, then i wrote a c++ node in ROS to chase white colored balls.
 - **ROS, C++, Gazebo**
 
-![3tyqlk](https://user-images.githubusercontent.com/51816415/77527034-61467500-6e83-11ea-9efb-9e82f013c955.gif)
+![Animated GIF-downsized_large (1)](https://user-images.githubusercontent.com/51816415/77528045-280f0480-6e85-11ea-9770-7d6c2d0642b9.gif)
 
 #### P3 - **Where am I** 
 - **Summary:** In this project using the Adaptive Monte Carlo Localization algorithm in ROS to localize itself

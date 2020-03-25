@@ -22,6 +22,10 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 #### P3 - **Where am I** 
 - **Summary:** In this project using the Adaptive Monte Carlo Localization algorithm in ROS to localize itself
 - **ROS, Gazebo, Robotic, Localization, AMCL**
+
+![Animated GIF-downsized_large (2)](https://user-images.githubusercontent.com/51816415/77530105-bf298b80-6e88-11ea-92b7-b88668b2b1f2.gif)
+
+
 #### P4 - **Map My World** 
 - **Summary:** Using RTAB-Map on my simulated robot to create 2D and 3D maps of my enviroment
 

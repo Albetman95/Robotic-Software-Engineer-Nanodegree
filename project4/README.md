@@ -4,4 +4,4 @@ The goal of this first project was to use SLAM and RTAB-Map on my simulated robo
 
  A lot of support is given from udacity lectures and you will learn how to use SLAM.
 
-![Animated GIF-downsized_large (2)](https://user-images.githubusercontent.com/51816415/77530105-bf298b80-6e88-11ea-92b7-b88668b2b1f2.gif)
+![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/51816415/77532104-1bda7580-6e8c-11ea-9d7c-60c7c575646f.gif)

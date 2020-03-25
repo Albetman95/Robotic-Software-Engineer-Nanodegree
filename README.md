@@ -29,6 +29,9 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 #### P4 - **Map My World** 
 - **Summary:** Using RTAB-Map on my simulated robot to create 2D and 3D maps of my enviroment
 
+![Animated GIF-downsized_large (4)](https://user-images.githubusercontent.com/51816415/77532104-1bda7580-6e8c-11ea-9d7c-60c7c575646f.gif)
+
+
 #### P5 - **Home Service Robot** 
 - **Summary:** Programmed a home service robot that will autonomously map an enviroment and navigate to pickup and deliver objects!
 

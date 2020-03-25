@@ -40,3 +40,4 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 ## Follow me
 
 - You can also check my [LinkedIn profile](https://www.linkedin.com/in/marcos-albetman-414473170/)
+- Subcribe to my [youtube channel:](https://www.youtube.com/channel/UCf16cNjf_6I8Aa221C9gN-Q?view_as=subscriber) 

@@ -37,6 +37,8 @@ I hope this might be useful to someone, do not hesitate to contact me if you hav
 
 ![Animated GIF-downsized_large (3)](https://user-images.githubusercontent.com/51816415/77531212-7bd01c80-6e8a-11ea-8b8d-527a36314874.gif)
 
+![image](https://user-images.githubusercontent.com/51816415/78647024-e2edc800-78b1-11ea-9743-951c896299e6.png)
+
 ## Follow me
 
 - You can also check my [LinkedIn profile](https://www.linkedin.com/in/marcos-albetman-414473170/)
